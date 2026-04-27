@@ -1,5 +1,8 @@
 # 🐾 Floof — Pet Health Tracker
 
+<img width="382" height="883" alt="Screenshot 2026-04-27 at 2 00 24 PM" src="https://github.com/user-attachments/assets/8f3e43a3-5a97-4a23-962a-5a0ea2e045fa" />
+
+
 > *Your pet can't tell you how they feel. Floof can.*
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-purple)
@@ -132,4 +135,4 @@ Floof is built on the bet that pet parents deserve the same quality of health in
 
 ---
 
-*Built by Rohan | Product Management Portfolio Project*
+*Built by Rohan | Portfolio Project*
