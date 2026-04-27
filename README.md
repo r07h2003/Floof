@@ -1,4 +1,4 @@
-<img width="382" height="883" alt="Screenshot 2026-04-27 at 2 03 30 PM" src="https://github.com/user-attachments/assets/63e1ed2a-0ab5-4b5e-83ab-68e519b71724" />
+
 # 🐾 Floof — Pet Health Tracker
 > *Your pet can't tell you how they feel. Floof can.*
 
@@ -6,6 +6,7 @@
 ![Platform](https://img.shields.io/badge/Platform-iOS-blue)
 ![Built With](https://img.shields.io/badge/Built%20With-Claude%20AI-orange)
 
+<img width="382" height="883" alt="Screenshot 2026-04-27 at 2 00 24 PM" src="https://github.com/user-attachments/assets/8f3e43a3-5a97-4a23-962a-5a0ea2e045fa" />
 ---
 
 ## The Problem
@@ -37,10 +38,10 @@ Floof tracks the four core pillars of pet health — **sleep, feeding, activity,
 
 ### Onboarding
 A clean 8-step onboarding flow that customizes everything around your pet. Users select their pet's species (Dog, Cat, Rabbit, Bird, Small Animal), name, breed, age, size, and primary health goal. Age-based tips are surfaced inline - for example, notifying new puppy owners that puppies sleep up to 18–20 hours a day.
-<img width="382" height="883" alt="Screenshot 2026-04-27 at 2 00 24 PM" src="https://github.com/user-attachments/assets/8f3e43a3-5a97-4a23-962a-5a0ea2e045fa" />
-<img width="382" height="883" alt="Screenshot 2026-04-27 at 2 05 00 PM" src="https://github.com/user-attachments/assets/ee289b66-4897-4b9c-a58f-ec67a0bbb168" />
-<img width="382" height="883" alt="Screenshot 2026-04-27 at 2 04 41 PM" src="https://github.com/user-attachments/assets/4414ea9d-b833-43e2-a82b-5d073683e08f" />
-<img width="382" height="883" alt="Screenshot 2026-04-27 at 2 05 21 PM" src="https://github.com/user-attachments/assets/79763d1e-7a4e-4ccb-990b-11549e9ec394" />
+
+<img width="382" height="883" alt="Screenshot 2026-04-27 at 2 05 00 PM" src="https://github.com/user-attachments/assets/ee289b66-4897-4b9c-a58f-ec67a0bbb168" /> <img width="382" height="883" alt="Screenshot 2026-04-27 at 2 04 41 PM" src="https://github.com/user-attachments/assets/4414ea9d-b833-43e2-a82b-5d073683e08f" /> <img width="382" height="883" alt="Screenshot 2026-04-27 at 2 05 21 PM" src="https://github.com/user-attachments/assets/79763d1e-7a4e-4ccb-990b-11549e9ec394" />
+
+
 
 ### Home Dashboard
 The home screen shows an at-a-glance view of your pet's day — active events, today's journal entries, AI powered Floof Insights, and goal completion status. A quick log bar lets you log Sleep, Wake, Feed, Play, and Bathroom events in one tap.
